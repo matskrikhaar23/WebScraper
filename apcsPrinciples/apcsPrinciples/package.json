@@ -1,0 +1,9 @@
+{
+  "name": "apcs-principles",
+  "version": "0.0.0",
+  "description": "apcsPrinciples",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}

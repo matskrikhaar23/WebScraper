@@ -1,0 +1,3 @@
+C:\Users\Mats Krikhaar\source\repos\apcsPrinciples\apcsPrinciples\obj\Debug\apcsPrinciples.njsproj.AssemblyReference.cache
+C:\Users\Mats Krikhaar\source\repos\apcsPrinciples\apcsPrinciples\obj\Debug\apcsPrinciples.njsproj.CoreCompileInputs.cache
+C:\Users\Mats Krikhaar\source\repos\apcsPrinciples\apcsPrinciples\bin\Microsoft.NodejsTools.WebRole.dll
